@@ -1,4 +1,4 @@
-# Test project
+# Example project
 
 Simple React app for creating GeoJSON of markers with a leaflet.js map. 
 
